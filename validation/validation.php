@@ -83,7 +83,7 @@ $name = $email = $phone = $address = "" ;
                     </div> 
                     <div class="my-3 px-5">
                         <label for="">Address</label>
-                        <textarea  class="form-control" name = "address" cols="30" rows="10" placeholder="Enter Your Address" ></textarea>
+                        <textarea type = "text" class="form-control" name = "address" cols="30" rows="10" placeholder="Enter Your Address" ></textarea>
                         <small class = "text-danger"><?php echo $errorAddress;?></small>
                     </div>
 
