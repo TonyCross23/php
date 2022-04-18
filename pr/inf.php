@@ -22,10 +22,7 @@
 />
 
 </head>
-<body class="bg-image"
-  style="
-    background-image: url('https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp');
-    height: 100vh;">
+<body>
 
 </body>
 </html>
